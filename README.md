@@ -1,6 +1,7 @@
 # 鐵捲門繼電器控制
 
 [![Baby Mobile](https://img.youtube.com/vi/W-WDRrXZ9ho/0.jpg)](https://www.youtube.com/watch?v=W-WDRrXZ9ho)
+(請點選圖片以播放影片)
 
 ## 韌體程式
 
